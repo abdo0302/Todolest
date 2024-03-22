@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1711036922 source:c:\users\hp\desktop\todo100\min.c
+	"todolest.h"
+
+1711036832 c:\users\hp\desktop\todo100\todolest.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1711036998 source:c:\users\hp\desktop\todo100\todolest.c
+	"todolest.h"
+
